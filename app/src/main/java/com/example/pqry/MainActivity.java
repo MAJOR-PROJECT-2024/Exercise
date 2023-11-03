@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-
     public void PregnancyExercise(View view) {
         Intent intentt = new Intent(this, MainActivity3.class);
         startActivity(intentt);

@@ -76,6 +76,7 @@
                             android:backgroundTint="@color/white"
                             android:text="Standing Forward Bend"
                             android:textColor="@color/black"
+                            android:onClick="standingforwardbend"
                             android:textStyle="bold" />
                     </RelativeLayout>
                 </androidx.cardview.widget.CardView>

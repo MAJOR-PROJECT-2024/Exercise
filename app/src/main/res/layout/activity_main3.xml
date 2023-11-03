@@ -186,7 +186,7 @@
                         android:layout_alignParentTop="true"
                         android:layout_marginStart="5dp"
                         android:layout_marginTop="-2dp"
-                        android:src="@drawable/seatedbackbend" />
+                        android:src="@drawable/side_lying_position" />
 
                     <Button
                         android:id="@+id/Top4"
@@ -195,9 +195,9 @@
                         android:layout_marginStart="148dp"
                         android:layout_marginTop="8dp"
                         android:backgroundTint="@color/white"
-                        android:text="CHILD POSE"
+                        android:text="Side Lying Position"
                         android:textColor="@color/black"
-                        android:textStyle="bold"></Button>
+                        android:textStyle="bold"/>
 
                 </RelativeLayout>
             </androidx.cardview.widget.CardView>
